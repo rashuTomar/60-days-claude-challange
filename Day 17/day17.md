@@ -29,3 +29,7 @@ CSV Data Processing
 Key Takeaway
 
 AI can turn raw spreadsheet data into professional, interactive dashboards within minutes, making data analysis faster, more accessible, and visually engaging.
+
+
+<img width="2560" height="1522" alt="Screenshot 2026-06-23 122138" src="https://github.com/user-attachments/assets/a24f1548-b27c-4321-b875-8a89e9d6eac8" />
+<img width="2560" height="1516" alt="Screenshot 2026-06-23 121850" src="https://github.com/user-attachments/assets/17c5cd6b-4a5e-49a0-896a-e04a5801951f" />
